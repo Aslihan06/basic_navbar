@@ -5,7 +5,7 @@
 }
  
  body{
-     background-image: url(/images.jpg);
+     background-image: url(./images.jpg);
      background-color: rgb(169, 168, 168);
      background-position: 0 10%;
      background-repeat: no-repeat;
